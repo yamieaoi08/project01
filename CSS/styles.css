@@ -1,0 +1,174 @@
+body {
+margin: 0;
+text-align: center;
+font-family: 'Quicksand', sans-serif;
+font-size: 1.15rem;
+line-height: 0.5;
+}
+
+h1 {
+margin: 30px auto 0 auto;
+font-family: 'Pacifico', cursive;
+font-size: 5.25rem;
+color: #0f4c75;
+line-height: 2;
+}
+
+h2 {
+  margin: 0;
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 2rem;
+  color: #383e56;
+
+}
+
+h3 {
+  margin: 0;
+  font-family: 'Parisienne', cursive;
+  font-size: 1.5rem;
+}
+
+hr{
+  border: dotted #f9f7d9 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 10px auto 35px;
+}
+
+p {
+  line-height: 1.5  ;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+
+.top-container {
+  background-color: #fff48f;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 60px;
+  bottom: 550px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 120px;
+  bottom: 10px;
+
+}
+
+.middle-cloud1{
+  position: absolute;
+  bottom: 400px;
+  left: 5px;
+}
+
+.middle-cloud3{
+  position: absolute;
+  bottom: 10px;
+  left: 50px;
+
+}
+
+.weeb{
+  font-weight: normal;
+}
+
+.middle-container{
+  background-color: #a6dcef;
+}
+
+
+.profile-pic{
+  padding-top: 20px;
+}
+
+
+.skill-row{
+  padding-top: 30px;
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+}
+
+.Ross{
+  float:left;
+  padding-right: 10px;
+}
+
+.audio-vo{
+  float: right;
+  position: absolute;
+  right: 445px;
+}
+
+
+.contact-me{
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+
+.bottom-container{
+  background-color: #fff48f;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.mayo {
+  width: 25%;
+  margin: 25px auto 50px;
+}
+
+.footer-link{
+  padding-top: 20px;
+  font-family:'Roboto', sans-serif;
+  font-size: 1rem;
+  margin: 10px 5px;
+  color: #1f4068;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffd36b;
+
+}
+.stubborn {
+  position: relative;
+  bottom: 25px;
+}
+
+.btn {
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  -webkit-box-shadow: 0px 1px 1px #11b4eb;
+  -moz-box-shadow: 0px 1px 1px #11b4eb;
+  box-shadow: 0px 1px 1px #11b4eb;
+  font-family: 'Pacifico', cursive;
+  color: ;
+  font-size: 16px;
+  padding: 10px;
+  background: #fadd3c;
+  text-decoration: none;
+  position: relative;
+  bottom: 20px;
+}
+
+.btn:hover {
+  background: #f7e13e;
+  background-image: -webkit-linear-gradient(top, #f7e13e, #f7e67b);
+  background-image: -moz-linear-gradient(top, #f7e13e, #f7e67b);
+  background-image: -ms-linear-gradient(top, #f7e13e, #f7e67b);
+  background-image: -o-linear-gradient(top, #f7e13e, #f7e67b);
+  background-image: linear-gradient(to bottom, #f7e13e, #f7e67b);
+  text-decoration: none;
+}
